@@ -1,1 +1,20 @@
-[  {    "id": 1,    "title": "Project 1",    "image": "project1.png",    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."  },  {    "id": 2,    "title": "Project 2",    "image": "project2.png",    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."  }]
+{
+  "=galleryTerm": {
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Project 1",
+        "link": "https://www.example.com/project1",
+        "thumbnail": "https://www.example.com/project1.png",
+        "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "position": 2,
+        "title": "Project 2",
+        "link": "https://www.example.com/project2",
+        "thumbnail": "https://www.example.com/project2.png",
+        "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ]
+  }
+}
