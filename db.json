@@ -1,20 +1,25 @@
 {
-  "=galleryTerm": {
-    "organic_results": [
-      {
-        "position": 1,
-        "title": "Project 1",
-        "link": "https://www.example.com/project1",
-        "thumbnail": "https://www.example.com/project1.png",
-        "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      },
-      {
-        "position": 2,
-        "title": "Project 2",
-        "link": "https://www.example.com/project2",
-        "thumbnail": "https://www.example.com/project2.png",
-        "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      }
-    ]
+  "=Graphicgallery": {
+    {
+  "projects": [
+    {
+      "id": 1,
+      "title": "Project 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image": "https://www.example.com/project1.png",
+      "year": 2021,
+      "client": "Client 1"
+    },
+    {
+      "id": 2,
+      "title": "Project 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image": "https://www.example.com/project2.png",
+      "year": 2022,
+      "client": "Client 2"
+    }
+  ]
+}
+
   }
 }
